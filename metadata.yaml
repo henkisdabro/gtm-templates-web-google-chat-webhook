@@ -2,6 +2,9 @@ homepage: "https://www.henriksoderlund.com"
 documentation: "https://github.com/henkisdabro/gtm-templates-web-google-chat-webhook/blob/main/README.md"
 versions:
   # Latest version
+  - sha: 5687a134400a72c6668bb918c2f7b9a73004d8b7
+    changeNotes: Change Ownership and branding and update wording in template file.
+  # Older versions
   - sha: 7efb357c1affa9ae44c1d84d24d83407bf17acfe
     changeNotes: Initial release.
-  # Older versions
+    
